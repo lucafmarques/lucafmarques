@@ -2,7 +2,6 @@
 
 I'm Luca. 
 
-I'm a software engineer based in Brazil and I like Go.
-Here you can find some random experiments with the language, and other personal stuff.
+I'm a software engineer based in Brazil and I enjoy playing around with Golang (and sometimes Rust).
 
-Have a good day.
+Here you can find some random experiments with the languages, and other personal stuff.
